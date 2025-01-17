@@ -29,7 +29,7 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoybiswas17)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmoybiswas17&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmoybiswas17&theme=dark&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/chinmoybiswas17)  
 
