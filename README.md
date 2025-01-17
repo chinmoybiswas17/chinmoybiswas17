@@ -33,5 +33,5 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 
 ![GitHub metrics](https://metrics.lecoq.io/chinmoybiswas17)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=chinmoybiswas17&theme=dark)  
+![GitHub streak stats](https://streak-stats.demolab.com/?username=chinmoybiswas17&theme=dark)  
 
