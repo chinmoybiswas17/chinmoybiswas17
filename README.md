@@ -2,7 +2,12 @@
 ### Hi there 👋, I'm Chinmoy Biswas
 #### A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chinmoybiswas17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinmoy-biswas-web-developer/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chinmoy-biswas-web-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy-biswas-web-developer" height="30" width="40" /></a>
+<a href="https://fb.com/chinmoy.biswas.940641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmoy.biswas.940641" height="30" width="40" /></a>
+<a href="https://instagram.com/chinmoybiswas337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmoybiswas337" height="30" width="40" /></a>
+</p>  
 
 I am a full-stack web developer from Chittagong, Bangladesh. I create professional websites. I prefer MERN stack for web development. In frontend, I am comfortable with Nextjs, Typescript, Javascript, React, Tailwind CSS, DaisyUI, bootstrap and in backend, I am comfortable with Nodejs, and MongoDB. In tools and software, I like to use VS Code, Git, Github, Netlify, firebase, and figma. Now I am seeking for a web development job/Intern
 
