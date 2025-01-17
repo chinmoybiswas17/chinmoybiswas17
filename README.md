@@ -29,4 +29,25 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmoybiswas17&theme=dark&show_icons=true&count_private=true)    
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=chinmoybiswas17)  
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chinmoybiswas17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmoybiswas17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoybiswas17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chinmoybiswas17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chinmoybiswas17&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Chinmoybiswas17&icon=4&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
