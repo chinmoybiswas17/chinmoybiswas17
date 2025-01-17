@@ -1,8 +1,8 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chinmoybiswas17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinmoy-biswas-web-developer/)  
-
+(https://media.licdn.com/dms/image/v2/D5616AQGgUAkiU8aAww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724934184863?e=1742428800&v=beta&t=JInaM5jhXMAW2rgXUXqHDpK_WPa5BOZn8d33AtyGYPQ)
 ### Hi there 👋, I'm Chinmoy Biswas
 #### A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship
-![A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship](https://media.licdn.com/dms/image/v2/D5616AQGgUAkiU8aAww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724934184863?e=1742428800&v=beta&t=JInaM5jhXMAW2rgXUXqHDpK_WPa5BOZn8d33AtyGYPQ)
+![A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chinmoybiswas17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinmoy-biswas-web-developer/)  
 
 I am a full-stack web developer from Chittagong, Bangladesh. I create professional websites. I prefer MERN stack for web development. In frontend, I am comfortable with Nextjs, Typescript, Javascript, React, Tailwind CSS, DaisyUI, bootstrap and in backend, I am comfortable with Nodejs, and MongoDB. In tools and software, I like to use VS Code, Git, Github, Netlify, firebase, and figma. Now I am seeking for a web development job/Intern
 
