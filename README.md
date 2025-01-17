@@ -10,6 +10,10 @@ I am a full-stack web developer from Chittagong, Bangladesh. I create profession
 
 I am a hardworking and ambitious individual with a great passion for Web design and development. I have completed a Full-stack web development course from Programming Hero. I am currently in my last year of studying Textile Engineering.
 
+- 🌱 I’m currently learning React Native 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web development 
+
 ## 🛠️ Skills & Tools
 
 ### Frontend Development
@@ -55,12 +59,6 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 
 ##📊 GitHub Stats
 <div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoybiswas17&theme=dark" alt="GitHub Streak" width="805"/></a> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmoybiswas17&theme=dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dark&exclude={exclude}" width="400"/> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmoybiswas17&theme=dark" width="805"/> </div>
-
-
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web development 
-
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
