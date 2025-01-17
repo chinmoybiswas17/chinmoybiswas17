@@ -1,6 +1,6 @@
 ![A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship](https://media.licdn.com/dms/image/v2/D5616AQGgUAkiU8aAww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724934184863?e=1742428800&v=beta&t=JInaM5jhXMAW2rgXUXqHDpK_WPa5BOZn8d33AtyGYPQ)
-### Hi there 👋, I'm Chinmoy Biswas
-#### A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship
+# Hi there 👋, I'm Chinmoy Biswas
+## A full stack web developer| MERN Stack | Reactjs, Node.js, MongoDB,Next.js, Typescript| Seeking full-time web development job/Internship
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
