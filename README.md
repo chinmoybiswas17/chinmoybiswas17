@@ -23,26 +23,15 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinmoybiswas17)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chinmoybiswas17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoybiswas17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmoybiswas17&theme=dark&show_icons=true&count_private=true)    
 
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chinmoybiswas17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chinmoybiswas17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmoybiswas17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chinmoybiswas17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chinmoybiswas17)  
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chinmoybiswas17&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
