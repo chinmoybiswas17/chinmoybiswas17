@@ -57,20 +57,17 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 </p>
 
 
-## 📊GitHub Stats
-<div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoybiswas17&theme=dark" alt="GitHub Streak" width="805"/></a> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmoybiswas17&theme=dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dark&exclude={exclude}" width="400"/> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmoybiswas17&theme=dark" width="805"/> </div>
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chinmoybiswas17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chinmoybiswas17&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+
+
+## 📊GitHub Stats
+<div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoybiswas17&theme=dark" alt="GitHub Streak" width="805"/></a> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmoybiswas17&theme=dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dark&exclude={exclude}" width="400"/> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmoybiswas17&theme=dark" width="805"/> </div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chinmoybiswas17&icon=4&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
