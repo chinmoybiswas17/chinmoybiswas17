@@ -26,12 +26,11 @@ I am a hardworking and ambitious individual with a great passion for Web design 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chinmoybiswas17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoybiswas17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmoybiswas17&theme=dark&show_icons=true&count_private=true)    
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=chinmoybiswas17)  
+## GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoybiswas17&theme=dark" alt="Top Langs" /></a>
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=chinmoybiswas17&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" />
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chinmoybiswas17) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chinmoybiswas17&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
